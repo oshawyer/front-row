@@ -1,0 +1,88 @@
+{
+ "built": "2026-10-30T18:38:17+00:00",
+ "schema_version": 2,
+ "taxonomy_version": "industries-v1 (2026-10-25)",
+ "rules_version": "rules-v2 (2026-10-25)",
+ "build_status": "ok",
+ "preview": false,
+ "sample": false,
+ "latest_edition": "2026-10-31",
+ "editions": [
+  "2026-10-31",
+  "2026-10-30",
+  "2026-10-29",
+  "2026-10-28",
+  "2026-10-27",
+  "2026-10-26",
+  "2026-10-25",
+  "2026-10-24"
+ ],
+ "item_count": 140,
+ "voice_count": 77,
+ "industries": [
+  {
+   "id": "sport",
+   "label": "Sport"
+  },
+  {
+   "id": "live-events-venues",
+   "label": "Live events & venues"
+  },
+  {
+   "id": "music-entertainment",
+   "label": "Music & entertainment"
+  },
+  {
+   "id": "media-creators",
+   "label": "Media & creators"
+  },
+  {
+   "id": "gaming-esports",
+   "label": "Gaming & esports"
+  }
+ ],
+ "tiers_note": "1, 5 and 10 are minutes of briefing time on this page, not the length of the original pieces.",
+ "sources": {
+  "sources_total": 86,
+  "sources_by_status": {
+   "active": 68,
+   "watchlist": 18
+  },
+  "sources_by_method": {
+   "rss": 62,
+   "linkedin_search": 15,
+   "x_api": 4,
+   "none (picked up via other voices)": 1,
+   "email_newsletter": 4
+  },
+  "rss_feeds_enabled": 60,
+  "rss_feeds_verified": 61,
+  "last_fetch": {
+   "edition": "2026-10-31",
+   "feeds_checked": 61,
+   "ok": 60,
+   "quiet": 1,
+   "failed": 0
+  }
+ },
+ "publications": {
+  "day": "2026-10-31",
+  "status": "ok",
+  "today_count": 10,
+  "archive_count": 109,
+  "days": [
+   "2026-10-31",
+   "2026-10-30",
+   "2026-10-29",
+   "2026-10-28",
+   "2026-10-27",
+   "2026-10-26",
+   "2026-10-23",
+   "2026-10-22",
+   "2026-10-21",
+   "2026-10-20",
+   "2026-10-19"
+  ],
+  "best_read": null
+ }
+}
